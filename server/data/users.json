@@ -1,0 +1,15 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "admin",
+    "color": "#e8a127"
+  },
+  "public": {
+    "username": "public",
+    "password": "5e884898da28047151d0e56f8dc6292773603d0d6aabbdd62a11ef721d1542d8",
+    "role": "public",
+    "avatar": "/uploads/default/avatar.png",
+    "color": "#40E0D0"
+  }
+}

@@ -1,0 +1,44 @@
+# Node modules
+node_modules/
+
+# Build output (Nuxt 3)
+.nuxt/
+.output/
+
+# IDE / system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Files
+files/
+
+# Env and secrets
+.env
+.env.*   # np. .env.local, .env.production itd.
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+*.swp
+*.swo
+
+# Optional: backupy/kompilacje
+*.log
+*.tmp
+*.bak
+
+# Nuxt static output (jeśli używasz generate/static build)
+dist/
+
+# Optional: backend pliki tymczasowe
+backend/__pycache__/
+backend/*.pyc
+
+# Optional: baza danych lokalna
+*.sqlite3
+*.db
